@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Package Files #
+*.rar
+*.zip
